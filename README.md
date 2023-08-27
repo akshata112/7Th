@@ -32,13 +32,13 @@ git branch -M main   #to rename branch
 
 git push -u origin main   #to avoid repetition
 
-git checkout  <branch name>
+git checkout  <branchname>
 
-git checkout -b <new branch name>
+git checkout -b <newbranchname>
 
-git checkout -d <branch name to be deleted being in main branch>
+git checkout -d #branch name to be deleted being in main branch
 
-git merge <branch name>
+git merge <branchname>
 
 Pull request
 
