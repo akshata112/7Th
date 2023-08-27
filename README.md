@@ -16,3 +16,5 @@ git add .      #all files
 git commit -m "message"
 
 qa to exit
+
+git push origin main
